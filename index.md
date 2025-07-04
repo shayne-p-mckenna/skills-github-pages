@@ -1,5 +1,5 @@
 ---
-Shayne McKenna
+title: Shayne McKenna
 
 # Shayne P. McKenna
 ## Geospatial Analysis | Remote Sensing | Cartography
